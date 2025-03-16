@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2050405887954070004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5482870322137046833}
+  - component: {fileID: 1496379500643561183}
+  m_Layer: 0
+  m_Name: CommandManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5482870322137046833
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050405887954070004}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -1.3371098, y: 1.87903, z: -0.57952464}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1496379500643561183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050405887954070004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d12c91234674b8e45a0570ce575dbb97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  angerMeter: 0
+  maxAnger: 2
+  minAnger: 0
+  timeMin: 5
+  timeMax: 10
+  timeLeft: 0
+  generateRandomCommands: 1
+  initialCommand:
+    commandText: "V\xEDt\xE1m v\xE1s na palub\u011B, u\u017E bylo na \u010Dase, \u017Ee
+      jsi dorazil. U\u017E se to tu za\u010D\xEDn\xE1 v\u0161e rozpadat, pod\xEDvejte
+      se mi na modul \u010D.4, to je ten na st\u011Bn\u011B \r\ns velk\xFDm mno\u017Estv\xEDm
+      tla\u010D\xEDtek."
+    timetoread: 10
+    seletedClip: {fileID: 8300000, guid: 8f2c5f0306663684a82d4723857bb02a, type: 3}
+    unskipable: 1
+  tier1RandomCommands:
+  - commandText: "Samo se to neoprav\xED."
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Co to d\u011Bl\xE1te? Opravte to."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Tohle je nebezpe\u010Dn\xFD experiment."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Pros\xEDm, myslete na na\u0161i bezpe\u010Dnost."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Dob\u0159e, te\u010F u\u017E bu\u010Fte opatrn\xED..."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  tier2RandomCommands:
+  - commandText: "P\u0159esta\u0148te mi po\u0161kozovat lo\u010F!"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Vid\xED\u0161 to, co to d\u011Bl\xE1te?"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Mysl\xED\u0161, \u017Ee je to legrace?"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Tohle nen\xED experiment\xE1ln\xED laborato\u0159, tohle je kokpit
+      vzducholodi!"
+    timetoread: 6
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "U\u017E to opravte, jinak budeme m\xEDt v\xE1\u017En\xE9 probl\xE9my!"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "U\u017E to p\u0159eh\xE1n\xEDte-"
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  tier3RandomCommands:
+  - commandText: "Ka\u017Ed\xFD tv\u016Fj stisk je jako dal\u0161\xED kapka oleje
+      na ho\u0159\xEDc\xED po\u017E\xE1r!"
+    timetoread: 5
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Kazd\xFD stisk tla\u010D\xEDtka ohro\u017Euje cel\xFD let!"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Nech toho, nebo skon\u010D\xEDme v trosk\xE1ch!\n"
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Co to sakra d\u011Bl\xE1te?!"
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Nebude\u0161 to tu znovu opakovat, rozum\xED\u0161?!!"
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  redToGreenCommand:
+  - commandText: "Tak to bychom m\u011Bli. Pokra\u010Dujte."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Kone\u010Dn\u011B n\u011Bco spr\xE1vn\u011B."
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Tak to nebylo tak t\u011B\u017Ek\xE9, \u017Ee?"
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Vid\xEDte? Kdy\u017E se sna\u017E\xEDte, jde to."
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Sta\u010Dilo trochu snahy, co?"
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Takhle to m\xE1 vypadat."
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  greenToRedCommand:
+  - commandText: "Na to co u\u017E funguje se ne\u0161mat\xE1."
+    timetoread: 3
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Co to vyv\xE1d\xEDte? Okam\u017Eit\u011B to dejte do po\u0159\xE1dku."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "P\u0159esta\u0148te improvizovat, nebo to \u0161patn\u011B skon\u010D\xED."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "Napravte to hned, nebo budete n\xE9st d\u016Fsledky."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  - commandText: "P\u0159edt\xEDm, ne\u017E n\u011Bco stisknete, zkuste p\u0159em\xFD\u0161let."
+    timetoread: 4
+    seletedClip: {fileID: 0}
+    unskipable: 0
+  tier1AudioVariants:
+  - {fileID: 8300000, guid: a5baf7d49eb22f5458d338b3b2da609b, type: 3}
+  - {fileID: 8300000, guid: d961cdd51e5ef9348bc21000f0dd5843, type: 3}
+  - {fileID: 8300000, guid: 5591ae6a4a44fea46b837723a7fead16, type: 3}
+  tier2AudioVariants:
+  - {fileID: 8300000, guid: 9c79b8371c596d641938c2403e7564d5, type: 3}
+  - {fileID: 8300000, guid: aaa32de9825fe9d4283bb38ba96986a9, type: 3}
+  tier3AudioVariants:
+  - {fileID: 8300000, guid: 0dd694292fab3ee4da03b495522b738b, type: 3}
+  - {fileID: 8300000, guid: fb307b15a08d14f47b5a776679cc74cc, type: 3}
+  - {fileID: 8300000, guid: e249dfdcdcd90a442850b7c93d05fc51, type: 3}
+  - {fileID: 8300000, guid: ef3b843c8c41ed842961e8be1e224108, type: 3}
+  - {fileID: 8300000, guid: ff251623e1008654fa5397504c583755, type: 3}
+  redToGreenAudio: []
+  greenToRedAudio: []
+  currentPlayingAudioSource: {fileID: 0}
+  timerLeft: 420
+  timerActive: 1

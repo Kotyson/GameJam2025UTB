@@ -1,0 +1,847 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3888287139130161348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -9204165527659776768, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.4669013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.272
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -6.3539934
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ddcef3204238ee1449f8ba6257990374, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ddcef3204238ee1449f8ba6257990374, type: 2}
+    - target: {fileID: -7222808549883619633, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -7222808549883619633, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: -6957634463268899696, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -6957634463268899696, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: -6458681447652753437, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -6458681447652753437, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: -5440593309864104645, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -5440593309864104645, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: -4660927421821286089, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: -3112281588195942384, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: -2552695442141661556, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: -569652524086349977, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -569652524086349977, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: 860950728823191512, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 919132149155446097, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Name
+      value: Telefoun_Puzzle
+      objectReference: {fileID: 0}
+    - target: {fileID: 1272138793136280962, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 1683065884751052834, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683065884751052834, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: 3242049024022226236, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 3302504668101939975, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 6868724732270471799, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6868724732270471799, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: 7412375202877410433, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 7845013887167077669, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7845013887167077669, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    - target: {fileID: 8569540771838761528, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 43daeb628f09b964792d24d5704c4a4c, type: 2}
+    - target: {fileID: 9151008220323303708, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 9151008220323303708, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      propertyPath: m_TagString
+      value: Hand
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1103341217893103140}
+    - targetCorrespondingSourceObject: {fileID: -569652524086349977, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4255437512255684340}
+    - targetCorrespondingSourceObject: {fileID: -569652524086349977, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8085812909172338100}
+    - targetCorrespondingSourceObject: {fileID: -6458681447652753437, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5941742854188950401}
+    - targetCorrespondingSourceObject: {fileID: -6458681447652753437, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7996110631581017510}
+    - targetCorrespondingSourceObject: {fileID: -5440593309864104645, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7812629243586696960}
+    - targetCorrespondingSourceObject: {fileID: -5440593309864104645, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4058978667841323118}
+    - targetCorrespondingSourceObject: {fileID: 1683065884751052834, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4878808293146240362}
+    - targetCorrespondingSourceObject: {fileID: 1683065884751052834, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3739592019583648834}
+    - targetCorrespondingSourceObject: {fileID: -7222808549883619633, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 569605117425474613}
+    - targetCorrespondingSourceObject: {fileID: -7222808549883619633, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 36328320358309228}
+    - targetCorrespondingSourceObject: {fileID: 6868724732270471799, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 884269485832759712}
+    - targetCorrespondingSourceObject: {fileID: 6868724732270471799, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 309967801569563338}
+    - targetCorrespondingSourceObject: {fileID: 7845013887167077669, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6974451220680791486}
+    - targetCorrespondingSourceObject: {fileID: 7845013887167077669, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4181584525705062384}
+    - targetCorrespondingSourceObject: {fileID: 9151008220323303708, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3297733656188063082}
+    - targetCorrespondingSourceObject: {fileID: 9151008220323303708, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4734810655513679573}
+    - targetCorrespondingSourceObject: {fileID: -6957634463268899696, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3669255189261488333}
+    - targetCorrespondingSourceObject: {fileID: -6957634463268899696, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1731228827039085721}
+  m_SourcePrefab: {fileID: 100100000, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+--- !u!1 &111140527784351231 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -5440593309864104645, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &7812629243586696960
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111140527784351231}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.07219057, y: 0.044806875, z: 0.040249854}
+  m_Center: {x: 0.000000007450581, y: 0.0025370978, z: -0.0028373748}
+--- !u!114 &4058978667841323118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 111140527784351231}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 1
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &1417472782032357159 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6458681447652753437, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &5941742854188950401
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1417472782032357159}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.07219057, y: 0.044806868, z: 0.04024984}
+  m_Center: {x: 0.000000009313226, y: 0.0025371015, z: -0.002837412}
+--- !u!114 &7996110631581017510
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1417472782032357159}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 9
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &2499087727207184614 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1683065884751052834, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4878808293146240362
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2499087727207184614}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.072190575, y: 0.044806875, z: 0.040249854}
+  m_Center: {x: 0.000000011175871, y: 0.0025370978, z: -0.0028373748}
+--- !u!114 &3739592019583648834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2499087727207184614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 3
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &3063710934263778388 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -6957634463268899696, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3669255189261488333
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3063710934263778388}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.06715849, y: 0.0408218, z: 0.03717722}
+  m_Center: {x: 0, y: 0.0025370903, z: -0.0028373972}
+--- !u!114 &1731228827039085721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3063710934263778388}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 5
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &3330013252810370571 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7222808549883619633, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &569605117425474613
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3330013252810370571}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.06715849, y: 0.044806853, z: 0.04024984}
+  m_Center: {x: 0, y: 0.002537094, z: -0.0028373972}
+--- !u!114 &36328320358309228
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3330013252810370571}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 8
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &4122079386304218517 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1103341217893103140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4122079386304218517}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6bac77bae11c644bbdcbf1973e93ccf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  puzzleSolved:
+    m_PersistentCalls:
+      m_Calls: []
+  idealNumber: 512
+  alternative: 268
+  currentNumber: 
+  successSound: {fileID: 0}
+  failSound: {fileID: 0}
+  commands:
+  - commandText: "D\u011Bkuji pane kolego, p\xED\u0161u si: v\u0161e v provozu. U\u017Eijte
+      si klidn\xFD zbytek letu."
+    timetoread: 6
+    seletedClip: {fileID: 8300000, guid: a17f85449a68b3c4dab84a8f3c8b7d27, type: 3}
+    unskipable: 1
+  - commandText: 
+    timetoread: 5
+    seletedClip: {fileID: 8300000, guid: bd46775f56eaceb4c8ee1b10c2c95ad8, type: 3}
+    unskipable: 1
+--- !u!1 &5407435514399582680 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9151008220323303708, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &3297733656188063082
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5407435514399582680}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.072190575, y: 0.0408218, z: 0.03717722}
+  m_Center: {x: 0.000000011175871, y: 0.0025370903, z: -0.0028373972}
+--- !u!114 &4734810655513679573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5407435514399582680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 6
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &5615364768807196579 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -569652524086349977, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &4255437512255684340
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5615364768807196579}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.072190575, y: 0.044806868, z: 0.04024984}
+  m_Center: {x: -0.0000000037252903, y: 0.0025371015, z: -0.002837412}
+--- !u!114 &8085812909172338100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5615364768807196579}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 0}
+  pressedColor: {r: 0, g: 1, b: 0, a: 0}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 7
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &6425209628900664801 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7845013887167077669, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &6974451220680791486
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6425209628900664801}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.07219057, y: 0.0408218, z: 0.03717722}
+  m_Center: {x: 0.0000000055879354, y: 0.0025370903, z: -0.0028373823}
+--- !u!114 &4181584525705062384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6425209628900664801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 4
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!1 &7685221571786003123 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6868724732270471799, guid: 39b4bdb6e9666fb44b4c45fa63af1a7a, type: 3}
+  m_PrefabInstance: {fileID: 3888287139130161348}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &884269485832759712
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7685221571786003123}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.06715848, y: 0.044806875, z: 0.040249854}
+  m_Center: {x: 0, y: 0.0025370978, z: -0.0028373748}
+--- !u!114 &309967801569563338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7685221571786003123}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 532a28263633b3448bd9c683e553c42f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isPressed: 0
+  colored: 0
+  unpressedColor: {r: 1, g: 0, b: 0, a: 1}
+  pressedColor: {r: 0, g: 1, b: 0, a: 1}
+  distance: 0.01
+  onButtonPressed:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1103341217893103140}
+        m_TargetAssemblyTypeName: teleforPuzzle, Assembly-CSharp
+        m_MethodName: AddNumber
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 2
+          m_BoolArgument: 0
+        m_CallState: 2
+  onButtonON:
+    m_PersistentCalls:
+      m_Calls: []
+  onButtonOFF:
+    m_PersistentCalls:
+      m_Calls: []

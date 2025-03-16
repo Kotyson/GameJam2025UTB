@@ -1,0 +1,71 @@
+Úvod
+TEXT
+Vítám vás na palubě, už bylo na čase, že jsi dorazil.
+Už se to tu začíná vše rozpadat, podívejte se mi na modul č.4, to je ten na stěně 
+s velkým množstvím tlačítek.
+
+Po správném ukončení LightsOut:
+TEXT
+Vidím, že nejste úplně k zahození. Otevřel jsem vám přístup ke zbytku ovládacích panelů.
+V panelu číslo 5 je potřeba nakonfigurovat napětí do turbín. 
+
+Je to ten se třemi tlačítky.
+
+Po tom co to hráč splní:
+TEXT
+Zavolejte mi na vedení, potřebují znát náš stav.
+Číslo na operátora je 012.
+Telefon snad dokážete poznat.
+
+- Operátor 012: 
+
+TEXT
+Děkuji pane kolego, píšu si: vše v provozu. Užijte si klidný zbytek letu.
+POKUD hráč zavolá 278, které vidí na telefonu
+Uslyší v morzeovce SOS
+POKUD hráč zavolá na 911, tak to zvedne operátor:
+TEXT
+Dobrý den, dovolali jste se na linku 911. Jak vám mohu pomoci?
+Haló je tam někdo?
+Ztrácíte můj čas, sbohem.
+
+U morseovky je taky papír, kde je slovo, které má hráč vyťukat.
+Když vyťuká SOS do morzeovky je to splněný úkol.
+
+
+TEXTY reakce na správné udělání minihry:
+Tak to bychom měli. Pokračujte.
+Konečně něco správně.
+Tak to nebylo tak těžké, že?
+Vidíte? Když se snažíte, jde to.
+Stačilo trochu snahy, co?
+Takhle to má vypadat.
+
+TEXTY když hráč zničí už vyhranou minihru:
+Na to co už funguje se nešmatá.
+Co to vyvádíte? Okamžitě to dejte do pořádku.
+Přestantě improvizovat, nebo to špatně skončí.
+Napravte to hned, nebo budete nést důsledky.
+Předtím, než něco stisknete, zkuste přemýšlet.
+
+TEXTY generic tier 1 
+Samo se to neopraví.
+Co to děláte? Opravte to.
+Tohle je nebezpečný experiment.
+Prosím, myslete na naši bezpečnost.
+Dobře, teď už buďte opatrní...
+
+GENERIC tier 2
+Přestaňte mi poškozovat loď!
+Vidíš to, co to děláte?
+Myslíš, že je to legrace?
+Tohle není experimentální laboratoř, tohle je kokpit vzducholodi!
+Už to opravte, jinak budeme mít vážné problémy!
+Už to přeháníte-
+
+GENERIC tier 3
+Každý tvůj stisk je jako další kapka oleje na hořící požár!
+Kazdý stisk tlačítka ohrožuje celý let!
+Nech toho, nebo skončíme v troskách!
+Co to sakra děláte?!
+Nebudeš to tu znovu opakovat, rozumíš?!!
